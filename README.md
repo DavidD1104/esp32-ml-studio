@@ -4,15 +4,6 @@ Registro de cómo preparar un ESP32 clásico (ESP32-D0WD-V3) en Windows para eje
 con **TensorFlow Lite Micro** usando **ESP-IDF** y **VS Code**. Incluye el entorno, las pruebas
 realizadas, los problemas encontrados y sus soluciones, y los resultados del `hello_world`.
 
-## Contenido del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| `README.md` | Este documento |
-| `hello_world_results.csv` | Salida del modelo en el ESP32 (un ciclo de 20 puntos) |
-| `plot_results.py` | Script que genera la gráfica a partir del CSV |
-| `hello_world_plot.png` | Gráfica generada |
-
 ## Hardware y software
 
 **Placa**
