@@ -4,8 +4,6 @@ Registro de cómo preparar un ESP32 clásico (ESP32-D0WD-V3) en Windows para eje
 con **TensorFlow Lite Micro** usando **ESP-IDF** y **VS Code**. Incluye el entorno, las pruebas
 realizadas, los problemas encontrados y sus soluciones, y los resultados del `hello_world`.
 
-Fecha de las pruebas: 21 de septiembre de 2026.
-
 ## Contenido del repositorio
 
 | Archivo | Descripción |
