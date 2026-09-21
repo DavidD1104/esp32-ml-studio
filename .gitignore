@@ -1,0 +1,14 @@
+# Ignorar carpetas de compilación de ESP-IDF
+build/
+managed_components/
+
+# Ignorar archivos de configuración generados
+sdkconfig
+sdkconfig.old
+
+# Ignorar configuración local de VS Code (opcional, si no quieres subirla)
+.vscode/
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
